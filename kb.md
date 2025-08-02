@@ -1,0 +1,13 @@
+- https://www.wikipedia.org/
+- https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents
+- https://rosettacode.org/wiki/Rosetta_Code
+- https://cheat.sh/
+- https://tldr.sh/
+- https://github.com/swaywm/sway/wiki
+- https://wiki.archlinux.org/title/Main_page
+- https://wiki.gentoo.org/wiki/Main_Page
+- https://wiki.tnonline.net/w/Category:Btrfs
+- https://curc.readthedocs.io/
+- https://www.instructables.com/
+- https://github.com/bobeff/open-source-games
+- https://github.com/awesome-selfhosted/awesome-selfhosted
